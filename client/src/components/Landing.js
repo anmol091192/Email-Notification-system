@@ -6,7 +6,11 @@ const Landing = () => {
       <h1>
         Emaily!
       </h1>
-      Collect feedback form your users
+      <h2>Email FeedBack Application</h2>
+      <p>
+        Step 1: Login with your google email ID <br/>
+        Note: As this application uses google Auth no details of your emailId or password would be saved in my database as google Auth is only used for authentication of whether the user is real or not.
+      </p>
     </div>
   );
 };
